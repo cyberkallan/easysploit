@@ -31,23 +31,29 @@ EasySploit v3.1 (Linux) - Metasploit automation (EASIER and FASTER than EVER)
 
 # How to install:
 
-git clone https://github.com/KALILINUXTRICKSYT/easysploit.git
- 
+git clone https://github.com/cyberkallan/easysploit
+
 cd easysploit
 
 bash installer.sh
 
 # How to run (after installation):
 
-Type anywhere in your terminal "easysploit".
+```
+cd easysploit
+chmod +x *
+bash easysploit
 
-# Video tutorials:
+# requirements
+### metasploit
 
-https://www.youtube.com/watch?v=v3xn9MDmTaY
+## subscribe my YouTube channel -CYBER KALLAN
 
-https://www.youtube.com/watch?v=9J479dModb8
 
-https://www.youtube.com/watch?v=UOUry9ov9rM
+
+
+
+
 
 
 # Support us: 
