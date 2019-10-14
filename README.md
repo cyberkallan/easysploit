@@ -7,6 +7,8 @@ EasySploit v3.1 (Linux) - Metasploit automation (EASIER and FASTER than EVER)
  ILLEGAL. Developers are not responsible for any damage caused by this script.
  EASYSPLOIT is intented ONLY FOR EDUCATIONAL PURPOSES!!! STAY LEGAL!!! 
  
+ ![cb]
+ 
 # Options:
 
 (1) Windows --> test.exe (payload and listener) 
