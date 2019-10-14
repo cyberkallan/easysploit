@@ -44,6 +44,7 @@ cd easysploit
 chmod +x *
 bash easysploit
 
+```
 # requirements
 ### metasploit
 
