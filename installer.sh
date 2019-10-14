@@ -17,7 +17,7 @@ echo -e '\e[1;33m
                   /____/     /_/      c͔ͣͦ́́͂ͅy͉̝͖̻̯ͮ̒̂ͮ͋ͫͨb͎̣̫͈̥̗͒͌̃͑̔̾ͅe̮̟͈̣̖̰̩̹͈̾ͨ̑͑r̼̯̤̈ͭ̃ͨ̆ k̲̱̠̞̖ͧ̔͊̇̽̿̑ͯͅa̘̫͈̭͌͛͌̇̇̍l͕͖͉̭̰ͬ̍ͤ͆̊ͨl͕͖͉̭̰ͬ̍ͤ͆̊ͨa̘̫͈̭͌͛͌̇̇̍n͉̠̙͉̗̺̋̋̔ͧ̊                  \e[1;34m
                                 
                                 Created by "CYBER KALLAN"
-                                https://www.youtube.com/channel/UClOU5rN6W_YBEOVQfrkqhmA\e[1;31m
+                                https://www.youtube.com/channel/Cyber Kallan\e[1;31m
 
 
   Usage of EASYSPLOIT for attacking targets without prior mutual consent is
