@@ -15,9 +15,9 @@ ip=$(ip addr show wlan0 | awk '/inet / {print $2}' | cut -d/ -f 1)
    / __/ / __ `/ ___/ / / /\__ \/ __ \/ / __ \/ / __/
   / /___/ /_/ (__  ) /_/ /___/ / /_/ / / /_/ / / /_   v3.1
  /_____/\__,_/____/\__, //____/ .___/_/\____/_/\__/  (Linux)
-                  /____/     /_/                        \e[1;34m
-                                Created by "KALI LINUX TRICKS"
-                                https://www.youtube.com/c/KALILINUXTRICKS\e[0m \e[1;31m
+                  /____/     /_/ c͔ͣͦ́́͂ͅy͉̝͖̻̯ͮ̒̂ͮ͋ͫͨb͎̣̫͈̥̗͒͌̃͑̔̾ͅe̮̟͈̣̖̰̩̹͈̾ͨ̑͑r̼̯̤̈ͭ̃ͨ̆ k̲̱̠̞̖ͧ̔͊̇̽̿̑ͯͅa̘̫͈̭͌͛͌̇̇̍l͕͖͉̭̰ͬ̍ͤ͆̊ͨl͕͖͉̭̰ͬ̍ͤ͆̊ͨa̘̫͈̭͌͛͌̇̇̍n͉̠̙͉̗̺̋̋̔ͧ̊                       \e[1;34m
+                                Created by "CYBER KALLAN"
+                                https://www.youtube.com/channel/UClOU5rN6W_YBEOVQfrkqhmA \e[0m \e[1;31m
 
  Usage of EASYSPLOIT for attacking targets without prior mutual consent is
  ILLEGAL. Developers are not responsible for any damage caused by this script.
@@ -185,17 +185,17 @@ echo -e '\e[1;33m
 
 
  \e[1;31m
- https://www.youtube.com/c/KALILINUXTRICKS 
+ https://www.youtube.com/channel/UClOU5rN6W_YBEOVQfrkqhmA
  \e[1;32m
- https://github.com/KALILINUXTRICKSYT
+ https://github.com/cyberkallan/easysploit
  \e[1;34m
- https://www.twitter.com/KALILINUXTRICKS
+ https://www.twitter.com/arjun_arz
  \e[1;35m
- https://www.instagram.com/kali_linux_tricks_youtube
+ https://www.instagram.com/arz_beats
  \e[1;33m
- https://www.patreon.com/kalilinuxtricks
+ https://www.patreon.com/cyberkallan
  \e[1;37m
- kalilinuxtricks@gmail.com
+ cyberkallan007@gmail.com
 
 
                           Press ENTER to Main Menu
