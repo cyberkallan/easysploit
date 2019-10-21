@@ -16,7 +16,7 @@ echo -e '\e[1;33m
  /_____/\__,_/____/\__, //____/ .___/_/\____/_/\__/  (Linux)
                   /____/     /_/      c͔ͣͦ́́͂ͅy͉̝͖̻̯ͮ̒̂ͮ͋ͫͨb͎̣̫͈̥̗͒͌̃͑̔̾ͅe̮̟͈̣̖̰̩̹͈̾ͨ̑͑r̼̯̤̈ͭ̃ͨ̆ k̲̱̠̞̖ͧ̔͊̇̽̿̑ͯͅa̘̫͈̭͌͛͌̇̇̍l͕͖͉̭̰ͬ̍ͤ͆̊ͨl͕͖͉̭̰ͬ̍ͤ͆̊ͨa̘̫͈̭͌͛͌̇̇̍n͉̠̙͉̗̺̋̋̔ͧ̊                  \e[1;34m
                                 
-                                Created by "CYBER KALLAN"
+                                recoded by "CYBER KALLAN"
                                 youtube/Cyber Kallan or arjun arz\e[1;31m
 
 
